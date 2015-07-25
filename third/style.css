@@ -1,0 +1,54 @@
+html, body {
+	padding: 3 10;
+	box-sizing: border-box;
+	margin: 0
+}
+.top {
+	background: black;
+	color: white;
+	height: 8%;
+	width: 80%;
+	margin: auto;
+
+}
+.appleGoogle {
+	padding: 3%;
+}
+
+.backgroundColumn {
+	height: 100%;
+	width: 80%;
+	margin: auto;
+	padding: 3 10;
+	box-sizing: border-box;
+}
+
+.leftParagraphs {
+    height: 100%;
+	width: 50%;
+	display: block;
+	float: left;
+	font-size: 8%
+
+}
+
+.rightParagraphs {
+	width: 90%;
+	height: 100%;
+	display: block;
+	margin-left: 10%;	
+	clear: right;
+	font-size: 1%;
+
+}
+.p {
+	padding: 3%
+	box-sizing: border-box;
+}
+.foot {
+	background: black;
+	height: 8%;
+	width: 80%;
+	margin: auto;
+	float: bottom;
+}
